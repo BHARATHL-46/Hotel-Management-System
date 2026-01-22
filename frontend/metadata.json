@@ -1,0 +1,5 @@
+{
+  "name": "Antigravity PMS",
+  "description": "A high-security Property Management System with strict role-based access control for Admins, Receptionists, and Housekeeping staff.",
+  "requestFramePermissions": []
+}
